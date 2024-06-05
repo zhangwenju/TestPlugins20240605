@@ -11,8 +11,7 @@
   ],
   "author": "QiuXinLiang",   
   "dependencies": {   
-   "com.qiuxinliang.testpackage": "https://github.com/zhangwenju/TestPlugins20240605.git",
-    "com.qiuxinliang.testpackage": "ssh://git@github.com:zhangwenju/TestPlugins20240605.git",
+    "com.qiuxinliang.testpackage": "ssh://git@github.com:zhangwenju/TestPlugins20240605.git"
   },
   "samples": [
     {"displayName":"Sample","description":"Sample description","path":"Samples~/Scens"}
